@@ -49,3 +49,7 @@ C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fu
 C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\Microsoft.AI.PerfCounterCollector.xml
 C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\Microsoft.ApplicationInsights.xml
 C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\obj\Debug\wAppPlanificacion.csprojAssemblyReference.cache
+C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\EntityFramework.dll
+C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\EntityFramework.SqlServer.dll
+C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\EntityFramework.xml
+C:\Users\jmedina\OneDrive - TROPICAL FRUIT EXPORT\Desarrollo\01_TropicalFruit\Fuentes\ASP.Net\wAppPlanificacion\wAppPlanificacion\bin\EntityFramework.SqlServer.xml
